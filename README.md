@@ -3,7 +3,7 @@
 
 ------
 
-- 색상:  CYAN / GREEN / PURPLE / RED
+- 색상: BLUE / GREEN / ORANGE
 - RESPONSIVVE TYPE
 - License: pixelarity.com/license
 
